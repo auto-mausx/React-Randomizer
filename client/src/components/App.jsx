@@ -32,5 +32,6 @@ Use a prize wheel npm (or create your own) to insert random API number
   - possible solutions:
       https://www.npmjs.com/package/timmattison-winwheel
       http://dougtesting.net/winwheel/docs/tut14_setting_the_prize
+      http://dougtesting.net/winwheel/docs
 
 */

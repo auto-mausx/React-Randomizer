@@ -1,5 +1,6 @@
 import React , { Component } from 'react';
 import List from './List';
+import WheelSpin from './WheelSpin';
 
 export default class App extends Component {
     constructor() {
@@ -7,13 +8,16 @@ export default class App extends Component {
         this.state = {
 
         };
+        
     }
+    
 
     render() {
         return (
             <div>
                 <h1>Hello World!</h1>
                 <List />
+                <WheelSpin />
             </div>
         )
     }
